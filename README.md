@@ -2,6 +2,8 @@
 
 ## Building to data fluency
 
+![Child reading](https://github.com/learn-co-curriculum/dsc-data-fluency-enterprise-intro/blob/main/images/child-reading.jpg?raw=true)
+
 Just as one needs to get accustomed to working with words and grammatical structures to learn a speaking language to build language literacy and fluency, we now live in a time where we need to work to improve data literacy with the goal of becoming data fluent. The world is changing at a faster time than ever before and one way to get a handle on this is through the use of data.
 
 In this course, you’ll build towards data fluency and be empowered to think about how you can access data, interpret data, integrate data with your expertise, and act with data.
