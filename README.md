@@ -4,7 +4,7 @@
 
 ![Child reading](https://github.com/learn-co-curriculum/dsc-data-fluency-enterprise-intro/blob/main/images/child-reading.jpg?raw=true)
 
-Just as one needs to get accustomed to working with words and grammatical structures to learn a speaking language to build language literacy and fluency, we now live in a time where we need to work to improve data literacy with the goal of becoming data fluent. The world is changing at a faster time than ever before and one way to get a handle on this is through the use of data.
+Just as one needs to get accustomed to working with words and grammatical structures to learn a speaking language to build language literacy and fluency, we now live in a time where we need to work to improve data literacy with the goal of becoming data fluent. The world is changing at a faster pace than ever before and one way to get a handle on this is through the use of data.
 
 In this course, you’ll build towards data fluency and be empowered to think about how you can access data, interpret data, integrate data with your expertise, and act with data.
 
@@ -15,7 +15,7 @@ The amount of data that surrounds you is increasing at speeds the world has neve
 
 You can build data skills and become data fluent by understanding the steps needed to work with data and how that data can be turned into business value. You needn’t be a highly technical person to be data fluent. Computers have increased in power and speed more and more over time. To be data fluent is as much about being able to set up problems appropriately with data and to interpret the results of the analyses. This doesn’t necessarily mean you need to be an experienced programmer who writes and tests code to be data fluent.
 
-Think about language fluency again. You can be fluent in, say, Portuguese, but still make mistakes every now and then with the language. Maybe there is an idiom that you aren’t quite sure about or maybe your pronunciation is a little off on some words. The same is true with data fluency. You needn’t be perfect with data, but you should be shooting for being consistent and aiming to improve as you learn more and more about how you and your company manage and work with data to draw insights.
+Think about language fluency again. You can be fluent in, say, Portuguese, but still make mistakes every now and then with the language. Maybe there is an idiom that you aren’t quite sure about or maybe your pronunciation is a little off on some words. The same is true with data fluency. You needn’t be perfect with data, but you should be shooting to be consistent and aiming to improve as you learn more and more about how you and your company manage and work with data to draw insights.
 
 ## Data literacy
 
